@@ -72,3 +72,8 @@ html {
         padding: 1.25rem !important;
     }
 }
+.event-img {
+    height: 220px;
+    object-fit: cover;
+    object-position: center top;
+}
